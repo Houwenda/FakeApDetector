@@ -12,5 +12,5 @@ a script tool to help recognizing evil twin attack
 ![image](https://github.com/Houwenda/FakeApDetector/raw/master/examples/4.png)
 
 ## To be done:
-#### 1.Using server to detect fake APs to support more platforms.
+#### 1.Using server detection in order to support multiple platforms(currently this tool can only run on Linux).
 #### 2.Detection based on timestamp is not reliable due to defect of algorithms, which needs improvement.
