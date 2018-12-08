@@ -6,8 +6,8 @@ a script tool to help recognizing evil twin attack
 #### 3.Use timestamp to tell fake APs from authenticated ones.
 
 ## Some Screenshots:
-![image](https://github.com/Houwenda/FakeApDetector/raw/master/examples/1.png)
 ![image](https://github.com/Houwenda/FakeApDetector/raw/master/examples/2.png)
+![image](https://github.com/Houwenda/FakeApDetector/raw/master/examples/1.png)
 ![image](https://github.com/Houwenda/FakeApDetector/raw/master/examples/3.png)
 ![image](https://github.com/Houwenda/FakeApDetector/raw/master/examples/4.png)
 
