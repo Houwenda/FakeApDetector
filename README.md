@@ -7,4 +7,4 @@ a script tool to help recognizing evil twin attack
 
 ## To be done:
 #### 1.Using server to detect fake APs to support more platforms.
-#### 2.Detection based on timestamp is not reliable due to defect of algorithms.
+#### 2.Detection based on timestamp is not reliable due to defect of algorithms, which needs improvement.
